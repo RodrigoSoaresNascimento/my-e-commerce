@@ -1,4 +1,4 @@
-<h1 align="center">ATM Consultoria</h1>
+<h1 align="center">E-COMMERCE</h1>
 <p align="center">Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE</p>
 <h2 align="center">Tecnologias usadas</h2>
 <p align="center">
